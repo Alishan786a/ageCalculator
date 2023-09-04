@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(75, 75, 197);
+    display: flex;
+    justify-content: center;
+    
+}
+form{
+    min-height: 300px;
+    width: 370px;
+    margin-top: 50px;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    padding: 20px;
+
+}
+/* div{
+    height: 200px;
+    width: 200px;
+position: absolute;
+}
+#d1{
+    background-color: brown;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+}
+#d2{
+    background-color: rgb(42, 75, 165);
+    top: 20px;
+    left: 20px;
+}
+#d3{
+    background-color: rgb(46, 165, 42);
+    top: 30px;
+    left: 30px;
+}
+#d4{
+    background-color: rgb(126, 8, 86);
+    top: 40px;
+    left: 40px;
+} */
